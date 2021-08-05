@@ -13,9 +13,9 @@
 */
 
 #define __S2_VideoFormatToString_VIDEO_DETECTED_DIG_INPUT 0
-#define __S2_VideoFormatToString_VIDEO_DETECTED_ARRAY_LENGTH 6
-#define __S2_VideoFormatToString_HDCP_DETECTED_DIG_INPUT 6
-#define __S2_VideoFormatToString_HDCP_DETECTED_ARRAY_LENGTH 6
+#define __S2_VideoFormatToString_VIDEO_DETECTED_ARRAY_LENGTH 8
+#define __S2_VideoFormatToString_HDCP_DETECTED_DIG_INPUT 8
+#define __S2_VideoFormatToString_HDCP_DETECTED_ARRAY_LENGTH 8
 
 /*
 * ANALOG_INPUT
@@ -24,11 +24,11 @@
 
 
 #define __S2_VideoFormatToString_HORIZONTAL_REZ_ANALOG_INPUT 0
-#define __S2_VideoFormatToString_HORIZONTAL_REZ_ARRAY_LENGTH 6
-#define __S2_VideoFormatToString_VERTICAL_REZ_ANALOG_INPUT 6
-#define __S2_VideoFormatToString_VERTICAL_REZ_ARRAY_LENGTH 6
-#define __S2_VideoFormatToString_REFRESH_RATE_ANALOG_INPUT 12
-#define __S2_VideoFormatToString_REFRESH_RATE_ARRAY_LENGTH 6
+#define __S2_VideoFormatToString_HORIZONTAL_REZ_ARRAY_LENGTH 8
+#define __S2_VideoFormatToString_VERTICAL_REZ_ANALOG_INPUT 8
+#define __S2_VideoFormatToString_VERTICAL_REZ_ARRAY_LENGTH 8
+#define __S2_VideoFormatToString_REFRESH_RATE_ANALOG_INPUT 16
+#define __S2_VideoFormatToString_REFRESH_RATE_ARRAY_LENGTH 8
 
 /*
 * DIGITAL_OUTPUT
@@ -41,7 +41,7 @@
 
 
 #define __S2_VideoFormatToString_INFO_STRING_STRING_OUTPUT 0
-#define __S2_VideoFormatToString_INFO_STRING_ARRAY_LENGTH 6
+#define __S2_VideoFormatToString_INFO_STRING_ARRAY_LENGTH 8
 
 /*
 * Direct Socket Variables
